@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-City of Helsinki is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://www.hel.fi/www/helsinki/en
+City of Helsinki is the municipal government of Finland's capital, providing a wide range of public services, data, and digital platforms to residents, businesses, and visitors. The city maintains open data portals, transportation APIs, event listings, and various civic services, fostering transparency and innovation. This profile captures its publicly available APIs and documentation for developers.
+
+**Areas:** Government · OpenData · Finland · Helsinki · CivicTech · PublicServices
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.hel.fi/fi)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/city-of-helsinki/](https://apis.io/providers/city-of-helsinki/).
